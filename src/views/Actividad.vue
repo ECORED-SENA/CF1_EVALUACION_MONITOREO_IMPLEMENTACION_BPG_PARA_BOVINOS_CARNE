@@ -21,7 +21,7 @@ export default {
         'Conocimientos Clave sobre Buenas Prácticas Ganaderas en Producción de Carne Bovina',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Este cuestionario tiene como finalidad evaluar y fortalecer los conocimientos sobre las Buenas Prácticas Ganaderas (BPG) aplicadas en la producción de carne bovina. Abarca aspectos clave como sanidad, bienestar animal, trazabilidad, sostenibilidad y normativas vigentes, con el propósito de garantizar la producción de carne segura, eficiente y sostenible.',
+        '<b> Objetivo:</b> este cuestionario tiene como finalidad evaluar y fortalecer los conocimientos sobre las Buenas Prácticas Ganaderas (BPG) aplicadas en la producción de carne bovina. Abarca aspectos clave como sanidad, bienestar animal, trazabilidad, sostenibilidad y normativas vigentes, con el propósito de garantizar la producción de carne segura, eficiente y sostenible.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',

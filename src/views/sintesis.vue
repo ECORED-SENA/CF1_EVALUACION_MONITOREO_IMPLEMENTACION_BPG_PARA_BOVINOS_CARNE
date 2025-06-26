@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Diagrama sobre contingencias en Buenas Prácticas Ganaderas (BPG) en bovinos de carne que vincula el análisis de situaciones que afectan la producción con la evaluación y monitoreo, incluyendo seguimiento, evaluación, recopilación de información, toma de decisiones, medidas implementadas, y técnicas de trazabilidad con indicadores de gestión e instrumentos.")
+          img(src="@/assets/curso/sintesis.png", alt="Diagrama sobre contingencias en Buenas Prácticas Ganaderas (BPG) en bovinos de carne que vincula el análisis de situaciones que afectan la producción con la evaluación y monitoreo, incluyendo seguimiento, evaluación, recopilación de información, toma de decisiones, medidas implementadas, y técnicas de trazabilidad con indicadores de gestión e instrumentos.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

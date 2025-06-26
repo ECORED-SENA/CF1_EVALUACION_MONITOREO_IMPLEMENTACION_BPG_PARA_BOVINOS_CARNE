@@ -35,10 +35,10 @@
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Enfermedades transmisibles entre animales
             <ul class="fa-ul estilo___ul">
-              <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Fiebre aftosa:</strong> Aunque se han desarrollado campañas de erradicación, sigue siendo una amenaza que afecta la movilidad del ganado y el acceso a mercados. </li>
-              <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Brucelosis:</strong> Enfermedad bacteriana que afecta tanto animales como humanos. Su control es una exigencia de las BPG. </li>
-              <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Tuberculosis bovina:</strong> Afecta la salud del hato y puede impedir la comercialización de productos si no se implementan medidas de prevención y control. </li>
-              <li class="mb-0"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Parásitos internos y externos:</strong> Su presencia reduce la productividad y afecta el bienestar animal. Su manejo es esencial dentro del plan sanitario.</li>
+              <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Fiebre aftosa:</strong> aunque se han desarrollado campañas de erradicación, sigue siendo una amenaza que afecta la movilidad del ganado y el acceso a mercados. </li>
+              <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Brucelosis:</strong> enfermedad bacteriana que afecta tanto animales como humanos. Su control es una exigencia de las BPG. </li>
+              <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Tuberculosis bovina:</strong> afecta la salud del hato y puede impedir la comercialización de productos si no se implementan medidas de prevención y control. </li>
+              <li class="mb-0"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Parásitos internos y externos:</strong> su presencia reduce la productividad y afecta el bienestar animal. Su manejo es esencial dentro del plan sanitario.</li>
             </ul> 
 
       .py-3.py-md-4(titulo="Resistencia a antibióticos")
@@ -160,7 +160,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Encefalopatía Espongiforme Bovina (EEB)
-                p.mb-0 “Vaca loca”, afecta el cerebro y el sistema nervioso central. Es de control estricto.
+                p.mb-0 “Vaca loca” afecta el cerebro y el sistema nervioso central. Es de control estricto.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img70.png', alt='' ).m-auto
@@ -182,7 +182,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/oFdokb-_DLw" title="Plan de emergencia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-0 La existencia y correcta activación de estos planes fortalece el sistema de monitoreo y evaluación de las Buenas Prácticas Ganaderas, promoviendo una respuesta rápida, coordinada y organizada ante cualquier eventualidad.
 

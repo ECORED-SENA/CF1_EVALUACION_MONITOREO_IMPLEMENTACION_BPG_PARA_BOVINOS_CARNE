@@ -257,38 +257,38 @@
             .row(titulo="Control de brotes sanitarios").ajuste-cajaAcordion
               p.mb-3 Este protocolo se activa ante la presencia de enfermedades infecciosas en animales. 
               <ul class="fa-ul estilo___i">
-                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> Aislamiento de animales afectados, notificación inmediata al ICA, aplicación de cuarentenas y, si es necesario, sacrificio sanitario.</li>
-                <li class="mb-0"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Enfermedades asociadas:</strong> Fiebre aftosa, brucelosis, tuberculosis, rabia bovina.</li>
+                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> aislamiento de animales afectados, notificación inmediata al ICA, aplicación de cuarentenas y, si es necesario, sacrificio sanitario.</li>
+                <li class="mb-0"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Enfermedades asociadas:</strong> fiebre aftosa, brucelosis, tuberculosis, rabia bovina.</li>
               </ul> 
             .row(titulo="Contingencia ante contaminación de alimentos").ajuste-cajaAcordion
               p.mb-3 Se aplica cuando existe riesgo de que productos derivados de animales estén contaminados. 
               <ul class="fa-ul estilo___i">
-                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> Inmovilización de productos, análisis en laboratorio, trazabilidad de lotes y destrucción segura de productos no aptos.</li>
+                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> inmovilización de productos, análisis en laboratorio, trazabilidad de lotes y destrucción segura de productos no aptos.</li>
               </ul> 
             .row(titulo="Plan de manejo de residuos peligrosos").ajuste-cajaAcordion
               p.mb-3 Dirigido a gestionar adecuadamente residuos que pueden representar un riesgo para la salud o el ambiente. 
               <ul class="fa-ul estilo___i">
-                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> Recolección segura, almacenamiento temporal y disposición final adecuada de medicamentos vencidos, productos químicos y cadáveres animales.</li>
+                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> recolección segura, almacenamiento temporal y disposición final adecuada de medicamentos vencidos, productos químicos y cadáveres animales.</li>
               </ul> 
             .row(titulo="Emergencias climáticas").ajuste-cajaAcordion
               p.mb-3 Enfocado en garantizar la protección de los animales y los recursos durante eventos climáticos extremos. 
               <ul class="fa-ul estilo___i">
-                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> Implementación de reservas forrajeras, protección de fuentes hídricas, planes de evacuación ante inundaciones, incendios o sequías severas.</li>
+                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> implementación de reservas forrajeras, protección de fuentes hídricas, planes de evacuación ante inundaciones, incendios o sequías severas.</li>
               </ul> 
             .row(titulo="Fallos en bioseguridad").ajuste-cajaAcordion
               p.mb-3 Responde a situaciones que comprometen las barreras sanitarias de la finca. 
               <ul class="fa-ul estilo___i">
-                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> Revisión de puntos críticos de ingreso y salida, refuerzo de procesos de desinfección, capacitación rápida al personal.</li>
+                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> revisión de puntos críticos de ingreso y salida, refuerzo de procesos de desinfección, capacitación rápida al personal.</li>
               </ul> 
             .row(titulo="Crisis ambientales").ajuste-cajaAcordion
               p.mb-3 Se activa frente a eventos que afecten negativamente los suelos, aguas o ecosistemas. 
               <ul class="fa-ul estilo___i">
-                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> Respuesta ante derrames de estiércol, manejo urgente de residuos y restauración de áreas degradadas.</li>
+                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> respuesta ante derrames de estiércol, manejo urgente de residuos y restauración de áreas degradadas.</li>
               </ul> 
             .row(titulo="Amenazas externas o sabotajes").ajuste-cajaAcordion
               p.mb-3 Diseñado para prevenir y reaccionar ante acciones deliberadas que atenten contra la producción. 
               <ul class="fa-ul estilo___i">
-                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> Fortalecimiento de la seguridad perimetral, control de accesos y planes de contingencia ante actos vandálicos o bioterrorismo rural.</li>
+                <li class="mb-2"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Acciones:</strong> fortalecimiento de la seguridad perimetral, control de accesos y planes de contingencia ante actos vandálicos o bioterrorismo rural.</li>
               </ul> 
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
