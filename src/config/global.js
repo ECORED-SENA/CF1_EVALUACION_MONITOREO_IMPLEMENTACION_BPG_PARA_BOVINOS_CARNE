@@ -1,9 +1,9 @@
 export default {
   global: {
     Name:
-      'Monitoreo y verificación de la Implementación de BPG en Ganadería Bovina de Carne',
+      'Monitoreo y verificación de la implementación de BPG en ganadería bovina de carne',
     Description:
-      'El componente formativo capacita en la supervisión de Buenas Prácticas Ganaderas (BPG) en bovinos de carne, enfocándose en sanidad, bienestar animal, sostenibilidad, trazabilidad y normativas. Se abordan conceptos, planes de implementación, monitoreo, indicadores de gestión, crisis sanitarias y ambientales, y planes de contingencia. Incluye actividades didácticas, material complementario, glosario y referencias para reforzar el aprendizaje.',
+      'El componente formativo capacita en la supervisión de Buenas Prácticas Ganaderas (BPG) en bovinos de carne, enfocándose en sanidad, bienestar animal, sostenibilidad, trazabilidad y normativas. Se abordan conceptos, planes de implementación, monitoreo, indicadores de gestión, crisis sanitarias y ambientales, y planes de contingencia. Incluye actividad didáctica, material complementario, glosario y referencias para reforzar el aprendizaje.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -48,12 +48,12 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Importancia del Plan de Implementación de BPG',
+            titulo: 'Importancia del plan de implementación de BPG',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Normatividad del Plan de Implementación de BPG',
+            titulo: 'Normatividad del plan de implementación de BPG',
             hash: 't_2_2',
           },
         ],
@@ -218,28 +218,28 @@ export default {
     {
       tema: 'Seguimiento y evaluación',
       referencia:
-        'Mtra. Marcia ATP. (2021). PEMC. Seguimiento y evaluación. [Archivo de video] Youtube.  ',
+        'Mtra. Marcia ATP. (2021). PEMC. Seguimiento y evaluación. [Archivo de video] YouTube.  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Nnz2yv27PCo',
     },
     {
       tema: 'Contingencia',
       referencia:
-        'Procem Consultores. (2020). Cómo elaborar un plan de contingencia. [Archivo de video] Youtube.  ',
+        'Procem Consultores. (2020). Cómo elaborar un plan de contingencia. [Archivo de video] YouTube.  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=HOEPtwPPRaw',
     },
     {
       tema: 'Indicadores de gestión',
       referencia:
-        'Procem Consultores. (2019). ¿Qué son los indicadores de gestión?. [Archivo de video] Youtube.  ',
+        'Procem Consultores. (2019). ¿Qué son los indicadores de gestión? [Archivo de video] YouTube.  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ON2_v7GrDE0',
     },
     {
       tema: 'Trazabilidad',
       referencia:
-        'La finca de hoy. (2019). Trazabilidad en producción cárnica. [Archivo de video] Youtube.  ',
+        'La finca de hoy. (2019). Trazabilidad en producción cárnica. [Archivo de video] YouTube.  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Y65Fr10l3NM',
     },
@@ -368,8 +368,8 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Eliana Audrey Manchola Peéz',
-          cargo: 'Experta Temática',
+          nombre: 'Eliana Audrey Manchola Peréz',
+          cargo: 'Experta temática',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

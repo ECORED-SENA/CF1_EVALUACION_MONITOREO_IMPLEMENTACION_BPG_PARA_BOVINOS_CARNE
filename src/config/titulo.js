@@ -1,2 +1,2 @@
 module.exports =
-  'Monitoreo y verificación de la Implementación de BPG en Ganadería Bovina de Carne'
+  'Monitoreo y verificación de la implementación de BPG en ganadería bovina de carne'

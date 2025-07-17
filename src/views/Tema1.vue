@@ -50,7 +50,7 @@
       .px-5
         .ajuste-slider(data-aos="zoom-in")
           PasosB.color-acento-contenido
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Garantizar la inocuidad de la carne bovina
                 p.mb-0 Se busca que el producto final esté libre de contaminantes físicos (como cuerpos extraños), químicos (como residuos de pesticidas o medicamentos) y biológicos (bacterias, virus, parásitos), cumpliendo con estándares nacionales e internacionales de seguridad alimentaria.
@@ -58,7 +58,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img5.png', alt='' style="max-width: 500px").m-auto
                 
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Prevenir y controlar enfermedades
                 p.mb-0 Incluye tanto enfermedades propias del ganado como zoonosis (como la brucelosis o la tuberculosis), que pueden transmitirse al ser humano. Esto se logra mediante vacunación, monitoreo sanitario, control epidemiológico y protocolos de bioseguridad.
@@ -66,7 +66,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img6.png', alt='' style="max-width: 500px").m-auto
 
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Evitar residuos de medicamentos veterinarios
                 p.mb-0 Se promueve el uso racional, controlado y documentado de fármacos, respetando los periodos de retiro para evitar residuos en la carne que puedan representar un riesgo para la salud humana o limitar el acceso a mercados internacionales.
@@ -74,7 +74,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img7.png', alt='' style="max-width: 500px").m-auto
 
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Proteger el medio ambiente
                 p.mb-0 Las BPG contemplan prácticas agropecuarias sostenibles que aseguren el uso eficiente del agua, el manejo adecuado de residuos sólidos y líquidos, la protección de fuentes hídricas, y la prevención de la degradación del suelo, reduciendo el impacto ecológico de la actividad ganadera.
@@ -82,7 +82,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img8.png', alt='' style="max-width: 500px").m-auto
 
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Asegurar el bienestar animal
                 p.mb-0 Se promueven condiciones óptimas de alojamiento, alimentación, manejo y transporte, minimizando el estrés y el sufrimiento de los animales. Esto incluye el uso de prácticas humanitarias en todas las fases del ciclo productivo.
@@ -90,7 +90,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img9.png', alt='' style="max-width: 500px").m-auto
             
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Promover la trazabilidad
                 p.mb-0 Se implementan sistemas de identificación individual o colectiva del ganado que permiten conocer su historial sanitario, reproductivo y productivo, desde el nacimiento hasta el sacrificio, fortaleciendo la transparencia en toda la cadena de valor.
@@ -98,7 +98,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img10.png', alt='' style="max-width: 500px").m-auto
             
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Mejorar la competitividad del sector ganadero
                 p.mb-0 La implementación de BPG fortalece la imagen del productor frente al mercado, facilita el acceso a certificaciones, mejora la eficiencia productiva y abre oportunidades comerciales tanto en el mercado interno como en el internacional, especialmente en países que exigen altos estándares sanitarios y de inocuidad.

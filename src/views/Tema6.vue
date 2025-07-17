@@ -171,7 +171,7 @@
       .px-5
         .ajuste-slider(data-aos="zoom-in")
           SlyderA(tipo="b")
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Contingencias sanitarias
                 p.mb-3 Afectan la salud animal y la seguridad de los productos: 
@@ -183,9 +183,9 @@
                 </ul> 
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img78.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img78.png', alt='', style="width:450px").m-auto
             
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Contingencias ambientales
                 p.mb-3 Impactan los recursos naturales asociados a la producción:
@@ -197,9 +197,9 @@
                 </ul> 
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img79.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img79.png', alt='', style="width:450px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Contingencias climáticas
                 p.mb-3 Relacionadas con eventos climáticos extremos:
@@ -210,9 +210,9 @@
                 </ul> 
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img80.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img80.png', alt='', style="width:450px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Contingencias operativas
                 p.mb-3 Derivan de fallos internos en la finca o centro de producción: 
@@ -223,9 +223,9 @@
                 </ul> 
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img81.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img81.png', alt='', style="width:450px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Contingencias sociales o económicas
                 p.mb-3 Provienen de factores externos que afectan indirectamente la actividad ganadera: 
@@ -236,7 +236,7 @@
                 </ul> 
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img82.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img82.png', alt='', style="width:450px").m-auto
 
     <!-- BLOQUE 4 -->
     Separador

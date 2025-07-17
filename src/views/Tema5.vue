@@ -65,45 +65,45 @@
       .px-5
         .ajuste-slider(data-aos="zoom-in")
           SlyderA(tipo="b")
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Deforestación
                 p.mb-0 La expansión no planificada de la ganadería ha generado pérdida de cobertura boscosa. Las BPG fomentan el uso sostenible del suelo y el aprovechamiento de áreas ya intervenidas, evitando impactos negativos sobre ecosistemas sensibles.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img60.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img60.png', alt='', style="width:450px").m-auto
             
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Degradación del suelo
                 p.mb-0 El pastoreo continuo sin rotación, así como la sobrecarga animal, deterioran la fertilidad del suelo. Las buenas prácticas promueven el manejo racional de potreros, rotación de cultivos y pasturas mejoradas.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img61.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img61.png', alt='', style="width:450px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Emisiones de gases de efecto invernadero (GEI)
                 p.mb-0 La actividad ganadera es responsable de emisiones importantes de metano. Las BPG impulsan estrategias como la mejora nutricional del ganado, el uso de biodigestores y el manejo adecuado del estiércol.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img63.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img63.png', alt='', style="width:450px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Contaminación del agua
                 p.mb-0 El mal manejo de residuos y efluentes genera contaminación de fuentes hídricas. Por ello, las BPG incluyen prácticas como la instalación de fosas sépticas, barreras vegetales y tratamiento de aguas residuales.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img62.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img62.png', alt='', style="width:450px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Destrucción de ecosistemas locales
                 p.mb-0 El cambio de uso del suelo afecta hábitats de fauna y flora nativa. La implementación de BPG implica conservar corredores biológicos, proteger fuentes de agua y mantener áreas de vegetación natural.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img64.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img64.png', alt='', style="width:450px").m-auto
 
     <!-- BLOQUE 2 -->
     Separador
@@ -125,53 +125,53 @@
       .px-5
         .ajuste-slider(data-aos="zoom-in")
           SlyderA(tipo="b")
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Fiebre Aftosa
+                h4 Fiebre aftosa
                 p.mb-0 Enfermedad altamente contagiosa que causa ampollas en boca, patas y ubres en bovinos.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img66.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img66.png', alt='', style="width:450px").m-auto
             
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Brucelosis Bovina
+                h4 Brucelosis bovina
                 p.mb-0 Enfermedad bacteriana que provoca abortos en vacas y puede transmitirse a humanos.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img67.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img67.png', alt='', style="width:450px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Tuberculosis Bovina
+                h4 Tuberculosis bovina
                 p.mb-0 Enfermedad infecciosa crónica causada por <em>Mycobacterium bovis</em>, afecta los pulmones y otros órganos.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img69.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img69.png', alt='', style="width:450px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Rabia Bovina
+                h4 Rabia bovina
                 p.mb-0 Enfermedad viral mortal transmitida por mordeduras de hematófagos. Provoca alteraciones nerviosas.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img68.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img68.png', alt='', style="width:450px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Encefalopatía Espongiforme Bovina (EEB)
+                h4 Encefalopatía espongiforme bovina (EEB)
                 p.mb-0 “Vaca loca” afecta el cerebro y el sistema nervioso central. Es de control estricto.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img70.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img70.png', alt='', style="width:450px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
+            .row.m-1.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Carbunco Bacteridiano (Ántrax)
+                h4 Carbunco bacteridiano (Ántrax)
                 p.mb-0 Enfermedad viral que produce tumores en bovinos adultos. Afecta la producción de carne.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img71.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img71.png', alt='', style="width:450px").m-auto
 
     <!-- BLOQUE 3 -->
     Separador
@@ -183,6 +183,7 @@
     figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/oFdokb-_DLw" title="Plan de emergencia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption.mt-3 #[b Video.] Planes de emergencia
 
     p.mb-0 La existencia y correcta activación de estos planes fortalece el sistema de monitoreo y evaluación de las Buenas Prácticas Ganaderas, promoviendo una respuesta rápida, coordinada y organizada ante cualquier eventualidad.
 

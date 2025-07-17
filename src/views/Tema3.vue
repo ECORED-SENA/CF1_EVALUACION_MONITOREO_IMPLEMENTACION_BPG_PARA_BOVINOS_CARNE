@@ -32,6 +32,7 @@
     figure(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/QwbeBx37_uk" title="Evaluación y seguimiento del proceso productivo - Objetivos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption.mt-3 #[b Video.] Evaluación y seguimiento del proceso productivo - Objetivos
 
     <!-- BLOQUE 2 -->
     Separador
@@ -44,7 +45,7 @@
       .px-5
         .ajuste-slider(data-aos="zoom-in")
           PasosB.color-acento-contenido
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Monitoreo de cumplimiento
                 p.mb-0 Evalúa si las prácticas ganaderas implementadas cumplen con los estándares, normas técnicas y requisitos legales establecidos. Revisa aspectos como el bienestar animal, manejo sanitario, alimentación adecuada, manejo de residuos y prácticas ambientales.
@@ -52,7 +53,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img23.png', alt='' style="max-width: 500px").m-auto
                 
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Monitoreo de procesos
                 p.mb-0 Consiste en la observación y evaluación continua de las actividades operativas del sistema productivo, asegurando que cada etapa (manejo de animales, alimentación, sanidad, infraestructura) se ejecute conforme a los protocolos establecidos en las BPG.
@@ -60,7 +61,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img24.png', alt='' style="max-width: 500px").m-auto
 
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Monitoreo de resultados
                 p.mb-0 Se enfoca en medir los logros o cambios alcanzados a partir de la implementación de las BPG, como mejoras en los índices productivos (ganancia de peso, tasas de conversión alimenticia, índices sanitarios) o en indicadores de sostenibilidad ambiental.
@@ -68,7 +69,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img25.png', alt='' style="max-width: 500px").m-auto
 
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Monitoreo ambiental
                 p.mb-0 Verifica el impacto de las actividades ganaderas sobre el medio ambiente, incluyendo la gestión de residuos, el uso eficiente de recursos naturales (agua, suelo) y la implementación de prácticas de conservación.
@@ -76,7 +77,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img26.png', alt='' style="max-width: 500px").m-auto
 
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Monitoreo de bienestar animal
                 p.mb-0 Evalúa las condiciones de manejo de los bovinos para garantizar que se cumplan principios de bienestar animal: adecuada nutrición, buena sanidad, comodidad física, manejo humanitario y ausencia de estrés innecesario.
@@ -84,7 +85,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img27.png', alt='' style="max-width: 500px").m-auto
             
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Monitoreo de trazabilidad
                 p.mb-0 Asegura que exista un registro sistemático y verificable de cada etapa del proceso de producción, desde el nacimiento del animal hasta su salida al mercado, garantizando la seguridad alimentaria y la confianza del consumidor.
@@ -92,7 +93,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img28.png', alt='' style="max-width: 500px").m-auto
             
-            .row.align-items-center(titulo="")
+            .row.align-items-center.m-1(titulo="")
               .col-xl-6.mb-4.mb-md-0
                 h4 Monitoreo de capacitación y gestión humana
                 p.mb-0 Controla que el personal involucrado en la producción esté debidamente capacitado en las buenas prácticas, y que exista actualización continua en procedimientos y normativas aplicables.
@@ -164,7 +165,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.4 Metodologías de monitoreo
 
-    p.mb-5 Las metodologías son procedimientos, métodos o reglas mediante los cuales se recopila información y se organiza el conocimiento. En el contexto de las Buenas Prácticas Ganaderas (BPG), estas metodologías buscan aplicar el saber técnico bajo procesos que favorecen el cuidado del medio ambiente, del personal involucrado y del producto final. La figura ilustra cómo estas prácticas se integran en distintos ámbitos de la producción.
+    p.mb-5 Las metodologías son procedimientos, métodos o reglas mediante los cuales se recopila información y se organiza el conocimiento. En el contexto de las Buenas Prácticas Ganaderas (BPG), estas metodologías buscan aplicar el saber técnico bajo procesos que favorecen el cuidado del medio ambiente, del personal involucrado y del producto final.
 
     .fondo___img_1
       .px-5

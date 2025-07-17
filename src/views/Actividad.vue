@@ -90,7 +90,8 @@ export default {
         },
         {
           id: 3,
-          texto: 'Promover la expansión desordenada de la ganadería',
+          texto:
+            'Qué monitoreo se utiliza para evaluar el cumplimiento de las BPG?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

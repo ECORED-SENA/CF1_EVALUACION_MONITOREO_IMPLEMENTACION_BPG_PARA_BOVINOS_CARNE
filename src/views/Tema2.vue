@@ -80,7 +80,7 @@
         <!-- BLOQUE 1 -->
         Separador
         #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 2.1 Importancia del Plan de Implementación de BPG
+          h2 2.1 Importancia del plan de implementación de BPG
         
     p.mb-5 Este plan es fundamental por varias razones:
 
@@ -102,7 +102,7 @@
     <!-- BLOQUE 2 -->
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 Normatividad del Plan de Implementación de BPG
+      h2 2.2 Normatividad del plan de implementación de BPG
     
     p.mb-5 La normatividad de las Buenas Prácticas Ganaderas (BPG) de carne bovina en Colombia está principalmente regulada por el Instituto Colombiano Agropecuario (ICA), autoridad sanitaria oficial del país. Estas normas establecen los requisitos técnicos, sanitarios, ambientales y administrativos que deben cumplir los predios ganaderos para garantizar una producción inocua, segura, trazable y sostenible.
 
