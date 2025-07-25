@@ -183,7 +183,7 @@
     figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/oFdokb-_DLw" title="Plan de emergencia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption.mt-3 #[b Video.] Planes de emergencia
+      figcaption #[b Video.] Planes de emergencia
 
     p.mb-0 La existencia y correcta activación de estos planes fortalece el sistema de monitoreo y evaluación de las Buenas Prácticas Ganaderas, promoviendo una respuesta rápida, coordinada y organizada ante cualquier eventualidad.
 

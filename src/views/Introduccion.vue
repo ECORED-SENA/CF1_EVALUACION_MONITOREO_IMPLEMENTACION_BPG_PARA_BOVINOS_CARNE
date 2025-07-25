@@ -12,8 +12,8 @@
 
     figure(data-aos="fade-left").espacio___movil_1
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/U_Pyrw14z9M" title="Monitoreo y verificación de la implementación de BPG en ganadería bovina de carne: introducción" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption.mt-3 #[b Video.] Monitoreo y verificación de la implementación de BPG en ganadería bovina de carne: introducción
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/9w7-9y87Mdo?si=2VEQYyuCTaClpAY1" title="Monitoreo y verificación de la implementación de BPG en ganadería bovina de carne: introducción" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption #[b Video.] Evaluación y monitoreo en la implementación de BPG para bovinos de carne
         
 </template>
 

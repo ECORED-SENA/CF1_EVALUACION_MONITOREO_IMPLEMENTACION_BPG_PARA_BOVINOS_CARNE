@@ -31,8 +31,8 @@
 
     figure(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/QwbeBx37_uk" title="Evaluación y seguimiento del proceso productivo - Objetivos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption.mt-3 #[b Video.] Evaluación y seguimiento del proceso productivo - Objetivos
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/zmR_kyd8nVw?si=9hEf1qFGNJuRvRDA" title="Evaluación y seguimiento del proceso productivo - Objetivos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption #[b Video.] Evaluación y seguimiento del proceso productivo - Objetivos
 
     <!-- BLOQUE 2 -->
     Separador
